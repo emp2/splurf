@@ -1,5 +1,5 @@
 {
-  "statuscodes": [
+  "HTTPSandwich_statuscodes": [
     {
       "code": "404",
       "message": "No Sandwich Found",
