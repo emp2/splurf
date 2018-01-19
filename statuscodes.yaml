@@ -1,0 +1,200 @@
+---
+HTTPSandwich_statuscodes:
+- code: '404'
+  message: No Sandwich Found
+  creator: rnelson0
+- code: '410'
+  message: Sandwich Gone
+  creator: Breynolds
+- code: '403'
+  message: Sandwich Locked
+  creator: Breynolds
+- code: '500'
+  message: Internal Sandwich Problem
+  creator: Breynolds
+- code: '501'
+  message: This is my sandwich, GFY
+  creator: rnelson0
+- code: '301'
+  message: Redirect To New Sandwich
+  creator: Breynolds
+- code: '469'
+  message: Sandwich Not Defined
+  creator: Breynolds
+- code: '206'
+  message: Missing Mustard
+  creator: jessemdavis
+- code: '418'
+  message: I'm A Sandwich
+  creator: dminus
+- code: '204'
+  message: No Mustard, WTF
+  creator: jessemdavis
+- code: '451'
+  message: Your Sandwich Has Been Banned
+  creator: John Thompson
+- code: '503'
+  message: Sandwich Unavailable, I Already Ate It
+  creator: rnelson0
+- code: '202'
+  message: Sandwich Order Accepted
+  creator: Breynolds
+- code: '101'
+  message: Switching Bread Type
+  creator: rnelson0
+- code: '302'
+  message: Dropped On Floor, Will Be Back Soon
+  creator: emp2
+- code: '411'
+  message: 6 Inch Or Foot Long
+  creator: jessemdavis
+- code: '413'
+  message: Too Many Toppings
+  creator: jessemdavis
+- code: '200'
+  message: Totes Delicious
+  creator: rnelson0
+- code: '201'
+  message: Your Sandwich Is Ready
+  creator: rnelson0
+- code: '200'
+  variant: Salesforce API
+  message: We're Pretending It's Totes Delicious But Really You're About To Get Food
+    Poisoning
+  creator: Ben
+- code: '418'
+  message: I'm A Teapot, Not A Sandwich
+  creator: jessemdavis
+- code: '203'
+  message: This Looks Like Your Sandwich But It May Not Be
+  creator: rnelson0
+- code: '204'
+  message: Two Slices Of Bread Only
+  creator: rnelson0
+- code: '402'
+  message: I'll Gladly Pay You Monday For A Hamburger Today
+  creator: jessemdavis
+- code: '00x'
+  message: Your Sandwich Is Wrapped In Layers Of Akamai Tinfoil
+  creator: emp2
+- code: '206'
+  message: We Ran Out Of Cold Cuts, Come Back Later
+  creator: rnelson0
+- code: '100'
+  message: Tell Me More About Your Sandwich
+  creator: becomingwisest
+- code: '206'
+  message: Your Sandwich Is Missing Bread
+  creator: Breynolds
+- code: '102'
+  message: Making Sandwich
+  creator: Breynolds
+- code: '101'
+  message: Your Sandwich Is Now Also A Burrito
+  creator: becomingwisest
+- code: '204'
+  message: No Sandwich For You
+  creator: Ben
+- code: '300'
+  message: Enjoy Your Sandwich Burrito
+  creator: Breynolds
+- code: '402'
+  message: Your Sandwich Costs $5
+  creator: Breynolds
+- code: '418'
+  message: Sandwich Is Teapot
+  creator: bobbertoriley
+- code: '409'
+  message: You Already Got Your Sandwich
+  creator: Breynolds
+- code: '406'
+  message: We Don't Handle Sandwiches Here
+  creator: Breynolds
+- code: '504'
+  message: Sandwich Isn't Ready Yet
+  creator: bobbertoriley
+- code: '410'
+  message: Someone Ate Your Sandwich
+  creator: Ben
+- code: '429'
+  message: Out Of Bread
+  creator: Ben
+- code: '305'
+  message: Get Your Sandwich In The Dark Back Alley, We Won't Serve You
+  creator: emp2
+- code: '416'
+  message: We Don't Make Sandwiches That Big
+  creator: Breynolds
+- code: '502'
+  message: This Is A Car Dealership
+  creator: Ben
+- code: '417'
+  message: We Don't Do Those Types Of Sandwiches
+  creator: Breynolds
+- code: '451'
+  message: We Cannot Legally Feed You That Sandwich
+  creator: bobbertoriley
+- code: '504'
+  message: Dealership On Fire
+  creator: jasonkuehl
+- code: '422'
+  message: We Cannot Process Fucking Sandwiches
+  creator: Breynolds
+- code: '415'
+  message: We Only Serve Soup
+  creator: emp2
+- code: '509'
+  message: You're Too Fat For More Sandwiches
+  creator: Ben
+- code: '503'
+  message: Sandwiches Unavailable
+  creator: Breynolds
+- code: '508'
+  message: Your Sandwich Is A Ring
+  creator: Breynolds
+- code: '508'
+  message: Your Sandwich Is A Bagel
+  creator: emp2
+- code: '450'
+  message: Your Parents Say No More Sandwiches
+  creator: Breynolds
+- code: '440'
+  message: Line Too Long For Sandwich
+  creator: Breynolds
+- code: '206'
+  message: You Ordered Half-Sandwich, Right?
+  creator: bobbertoriley
+- code: '496'
+  message: Are You Sure That's Your Sandwich?
+  creator: Breynolds
+- code: '200'
+  message: Sandwich Successfully Acquired
+  creator: souuell
+- code: '525'
+  message: No Greets, No Eats
+  creator: emp2
+- code: '420'
+  message: You're Gonna Want More Sandwiches Soon
+  creator: Ben
+- code: '521'
+  message: Sandwich Maker Is Sick
+  creator: Breynolds
+- code: '405'
+  message: We Don't Make Those Types Of Sandwiches
+  creator: Breynolds
+- code: '0xc'
+  message: Your Sandwich Maker Is Unhygienic
+  creator: Ben
+- code: '414'
+  message: Sandwiches Can't Hold That Many Ingredients
+  creator: rnelson0
+- code: '428'
+  message: You Want White Or Wheat Bread?
+  creator: Breynolds
+- code: '429'
+  message: Too Many Sandwiches Being Made
+  creator: Breynolds
+- code: '504'
+  message: Sandwich Is Not Ready Yet
+  creator: Breynolds
+
