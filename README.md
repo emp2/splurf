@@ -1,2 +1,2 @@
 # splurf
-Splurf is the future of the web. Now with sandwich error codes.
+Splurf is the future of the web. Now with sandwich status codes.
